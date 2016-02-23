@@ -2,8 +2,6 @@ var dateCalculator = require('./../dateCalculator.js');
 var assert = require('assert');
 var moment = require('moment');
 
-
-
 function actualMoment(begin, end) {
   return moment(end, "DD/MM/YYYY").diff(moment(begin, "DD/MM/YYYY"), 'days') - 1;
 }

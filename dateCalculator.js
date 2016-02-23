@@ -1,5 +1,4 @@
 //http://stackoverflow.com/questions/4351521/how-do-i-pass-command-line-arguments-to-node-js
-console.log(process.argv[2] + " " + process.argv[3]);
 if (process.argv.length >= 4)
   console.log("There are exactly " + calculator(process.argv[2], process.argv[3]) + " days between the two dates.");
 
