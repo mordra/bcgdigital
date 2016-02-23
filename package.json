@@ -1,0 +1,17 @@
+{
+  "name": "bcg_code_challenge",
+  "version": "1.0.0",
+  "description": "Coding solution for BCG",
+  "main": "dateCalculator.js",
+  "dependencies": {
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Joseph Ni",
+  "license": "ISC"
+}
