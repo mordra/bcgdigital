@@ -2,7 +2,7 @@
 
 *To run the code challenge:*
 
-1. `git clone https://github.com/mordra/bcgdigital`
+1. `git clone https://github.com/mordra/date-calculator`
 2. `npm i`
 3. `npm test`
 
@@ -19,5 +19,3 @@ outputs:
 momentjs - I test against momentjs to make sure my results are correct.
 
 mocha - For a simple test framework that illustrates the point without complicating things.
-
-In my spare time, I explore javascript frameworks. Check out my latest efforts learning react/redux at [Castle of the Winds Remake](https://github.com/mordra/cotwmtor)
