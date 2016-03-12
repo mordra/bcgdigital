@@ -1,12 +1,13 @@
 # Code challenge
+This is a coding challenge to calculate the number of days between two dates (not including the start or end date) for any given time between 01/01/1901 and 31/12/2999. It will accurately handle leap years and do not make use of any in-built time based libraries (other than for testing).
 
-*To run the code challenge:*
+*To run the project:*
 
 1. `git clone https://github.com/mordra/date-calculator`
 2. `npm i`
 3. `npm test`
 
-*Commandline example:*
+*Sample inputs:*
 
 `> node dateCalculator "01/01/2000" "01/01/2999"` 
 
